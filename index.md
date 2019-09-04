@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## As your wish
 
 You can use the [editor on GitHub](https://github.com/codeRhythm/codeRhythm.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
